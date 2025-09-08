@@ -26,8 +26,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```
-# Developed By: ROGITH. K
-# Register Number: 212223110042
+# Developed By: KRISHNA KUMAR R
+# Register Number: 212223230107
 ```
 
 
