@@ -78,7 +78,7 @@ plt.title('Equalized Histogram')
 plt.xlim([0, 256])
 ```
 ## Output:
-<img width="756" height="553" alt="image" src="https://github.com/user-attachments/assets/e26e93cb-70de-48bb-bd5b-1f7beb8feb38" />
+<img width="762" height="536" alt="image" src="https://github.com/user-attachments/assets/d03fb4ec-c524-4476-a02b-0a9ebe73f8d7" />
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
