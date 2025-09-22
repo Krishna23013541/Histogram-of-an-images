@@ -1,4 +1,9 @@
-# Histogram-of-an-images
+# **Ex. No: 03**
+# **Histogram of an Images**
+
+# **Name: KRISHNA KUMAR R**   
+# **Reg. No: 212223230107**
+
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
