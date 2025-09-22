@@ -56,8 +56,7 @@ plt.title('Original Histogram')
 plt.xlim([0, 256])
 ```
 ## Output:
-<img width="811" height="536" alt="image" src="https://github.com/user-attachments/assets/bfab9fd3-b3e8-4470-b09b-d7779b4b3967" />
-
+<img width="805" height="552" alt="image" src="https://github.com/user-attachments/assets/0fb8ba6c-65d3-4e76-ad89-81a4d9273130" />
 
 ### Histogram Equalization of Grayscale Image.
 ```
